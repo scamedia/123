@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="BANGLA ENT.",CHANNEL I HD [BD]
+#EXTINF:-1 CHANNEL I HD
 https://cdn.naturalbd.com/j-ChannelI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png" group-title="BANGLA ENT.",NTV [BD]
+#EXTINF:-1 NTV [BD]
 https://cdn.naturalbd.com/j-JamunaTV/tracks-v1a1/mono.m3u8
